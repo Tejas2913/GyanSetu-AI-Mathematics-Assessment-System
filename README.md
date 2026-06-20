@@ -6,6 +6,22 @@ An AI-powered assessment platform for **Class 10 Mathematics (Quadratic Equation
 
 ---
 
+## Project Resources
+
+### 🎥 Demo Video
+
+https://drive.google.com/file/d/1Kru6lCVOKhZgApz3tOqeUs4ajwAZd49V/view?usp=sharing
+
+### 📊 Presentation Slides
+
+Included in the repository.
+
+### 💻 Source Code
+
+Included in this repository.
+
+---
+
 ## Project Overview
 
 Traditional mathematics assessments often provide delayed feedback and limited insight into student understanding. GyanSetu aims to bridge this gap by evaluating student responses using AI, awarding partial marks for correct methods, identifying weak areas, and generating actionable reports for teachers and parents.
@@ -273,11 +289,9 @@ http://localhost:5173
 
 ## Demonstration
 
-The project includes:
+### Demo Video
 
-* Source Code
-* Presentation Slides
-* Demonstration Video
+https://drive.google.com/file/d/1Kru6lCVOKhZgApz3tOqeUs4ajwAZd49V/view?usp=sharing
 
 Demonstrated workflows include:
 
