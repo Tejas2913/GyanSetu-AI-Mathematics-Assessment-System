@@ -1,0 +1,317 @@
+[
+  {
+    "question_id": "00000000-0000-4000-a000-000000000001",
+    "steps": [
+      {"step_number": 1, "step_description": "Split the middle term correctly: x² - 5x + 6 = x² - 2x - 3x + 6", "max_marks": 1, "ideal_solution_snippet": "x² - 2x - 3x + 6", "keywords": ["split", "middle term", "-2x", "-3x"]},
+      {"step_number": 2, "step_description": "Factorise into two binomials and solve: (x - 2)(x - 3) = 0, so x = 2 or x = 3", "max_marks": 1, "ideal_solution_snippet": "(x - 2)(x - 3) = 0; x = 2, x = 3", "keywords": ["x-2", "x-3", "x=2", "x=3"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000002",
+    "steps": [
+      {"step_number": 1, "step_description": "Split the middle term: x² + 3x + 4x + 12", "max_marks": 1, "ideal_solution_snippet": "x² + 3x + 4x + 12", "keywords": ["split", "3x", "4x"]},
+      {"step_number": 2, "step_description": "Factorise and solve: (x + 3)(x + 4) = 0, x = -3 or x = -4", "max_marks": 1, "ideal_solution_snippet": "(x + 3)(x + 4) = 0; x = -3, x = -4", "keywords": ["x+3", "x+4", "x=-3", "x=-4"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000003",
+    "steps": [
+      {"step_number": 1, "step_description": "Identify a×c = 2×(-6) = -12 and find two numbers whose product is -12 and sum is 1: (4, -3)", "max_marks": 1, "ideal_solution_snippet": "Product = -12, sum = 1: numbers are 4 and -3", "keywords": ["product", "-12", "sum", "4", "-3"]},
+      {"step_number": 2, "step_description": "Split the middle term: 2x² + 4x - 3x - 6", "max_marks": 1, "ideal_solution_snippet": "2x² + 4x - 3x - 6", "keywords": ["4x", "-3x"]},
+      {"step_number": 3, "step_description": "Factorise and solve: 2x(x + 2) - 3(x + 2) = 0, (2x - 3)(x + 2) = 0, x = 3/2 or x = -2", "max_marks": 1, "ideal_solution_snippet": "(2x - 3)(x + 2) = 0; x = 3/2, x = -2", "keywords": ["2x-3", "x+2", "3/2", "-2"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000004",
+    "steps": [
+      {"step_number": 1, "step_description": "Identify a×c = 6×(-2) = -12 and find factors: (3, -4) with sum -1", "max_marks": 1, "ideal_solution_snippet": "Product = -12, sum = -1: numbers are 3 and -4", "keywords": ["product", "-12", "3", "-4"]},
+      {"step_number": 2, "step_description": "Split and group: 6x² + 3x - 4x - 2 = 3x(2x + 1) - 2(2x + 1)", "max_marks": 1, "ideal_solution_snippet": "3x(2x + 1) - 2(2x + 1)", "keywords": ["3x", "-4x", "2x+1"]},
+      {"step_number": 3, "step_description": "Solve: (3x - 2)(2x + 1) = 0, x = 2/3 or x = -1/2", "max_marks": 1, "ideal_solution_snippet": "(3x - 2)(2x + 1) = 0; x = 2/3, x = -1/2", "keywords": ["3x-2", "2x+1", "2/3", "-1/2"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000005",
+    "steps": [
+      {"step_number": 1, "step_description": "Use difference of squares: (x - 3)(x + 3) = 0, so x = 3 or x = -3", "max_marks": 1, "ideal_solution_snippet": "(x - 3)(x + 3) = 0; x = ±3", "keywords": ["difference of squares", "x-3", "x+3", "±3"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000006",
+    "steps": [
+      {"step_number": 1, "step_description": "Identify a×c = 3×2 = 6 and find two numbers with product 6 and sum -2√6: (-√6, -√6)", "max_marks": 1, "ideal_solution_snippet": "Product = 6, sum = -2√6 → numbers are -√6 and -√6", "keywords": ["product", "6", "√6"]},
+      {"step_number": 2, "step_description": "Split: 3x² - √6 x - √6 x + 2 = √3 x(√3 x - √2) - √2(√3 x - √2)", "max_marks": 1, "ideal_solution_snippet": "√3x(√3x - √2) - √2(√3x - √2)", "keywords": ["√3x", "√2", "split"]},
+      {"step_number": 3, "step_description": "Solve: (√3 x - √2)² = 0, x = √2/√3 = √6/3", "max_marks": 1, "ideal_solution_snippet": "x = √(2/3) = √6/3", "keywords": ["√6/3", "equal roots", "√2/√3"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000007",
+    "steps": [
+      {"step_number": 1, "step_description": "Split the middle term: x² - 5x + 2x - 10", "max_marks": 1, "ideal_solution_snippet": "x² - 5x + 2x - 10", "keywords": ["-5x", "2x"]},
+      {"step_number": 2, "step_description": "Factorise and solve: (x - 5)(x + 2) = 0, x = 5 or x = -2", "max_marks": 1, "ideal_solution_snippet": "(x - 5)(x + 2) = 0; x = 5, x = -2", "keywords": ["x-5", "x+2", "x=5", "x=-2"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000008",
+    "steps": [
+      {"step_number": 1, "step_description": "Expand and rearrange: x² - 2x - 3 = 0", "max_marks": 1, "ideal_solution_snippet": "x² - 2x - 3 = 0", "keywords": ["expand", "rearrange", "-3"]},
+      {"step_number": 2, "step_description": "Factorise and solve: (x - 3)(x + 1) = 0, x = 3 or x = -1", "max_marks": 1, "ideal_solution_snippet": "(x - 3)(x + 1) = 0; x = 3, x = -1", "keywords": ["x-3", "x+1", "x=3", "x=-1"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000009",
+    "steps": [
+      {"step_number": 1, "step_description": "Recognise a⁴ - b⁴ = (a² - b²)(a² + b²) and rewrite the equation", "max_marks": 1, "ideal_solution_snippet": "a⁴ - b⁴ = (a² + b²)(a² - b²)", "keywords": ["a⁴-b⁴", "difference"]},
+      {"step_number": 2, "step_description": "Split the middle term using the sum = 4a² and product = (a²+b²)(a²-b²): terms are 2(a²+b²) and 2(a²-b²)", "max_marks": 1, "ideal_solution_snippet": "-2(a²+b²)x - 2(a²-b²)x", "keywords": ["split", "a²+b²", "a²-b²"]},
+      {"step_number": 3, "step_description": "Factorise into two binomials: [2x - (a² + b²)][2x - (a² - b²)] = 0", "max_marks": 1, "ideal_solution_snippet": "[2x - (a²+b²)][2x - (a²-b²)] = 0", "keywords": ["factorise", "binomials"]},
+      {"step_number": 4, "step_description": "Solve for x: x = (a² + b²)/2 or x = (a² - b²)/2", "max_marks": 1, "ideal_solution_snippet": "x = (a²+b²)/2, x = (a²-b²)/2", "keywords": ["(a²+b²)/2", "(a²-b²)/2"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000010",
+    "steps": [
+      {"step_number": 1, "step_description": "Identify product = 2×(-a²) = -2a² and sum = a. Find factors: 2a and -a", "max_marks": 1, "ideal_solution_snippet": "Product = -2a², sum = a; factors 2a, -a", "keywords": ["-2a²", "2a", "-a"]},
+      {"step_number": 2, "step_description": "Split: 2x² + 2ax - ax - a² = 2x(x + a) - a(x + a)", "max_marks": 1, "ideal_solution_snippet": "2x(x + a) - a(x + a)", "keywords": ["2ax", "-ax", "x+a"]},
+      {"step_number": 3, "step_description": "Solve: (2x - a)(x + a) = 0, x = a/2 or x = -a", "max_marks": 1, "ideal_solution_snippet": "(2x - a)(x + a) = 0; x = a/2, x = -a", "keywords": ["2x-a", "x+a", "a/2", "-a"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000011",
+    "steps": [
+      {"step_number": 1, "step_description": "Identify a = 2, b = -7, c = 3 and write the quadratic formula", "max_marks": 1, "ideal_solution_snippet": "a = 2, b = -7, c = 3; x = [-b ± √(b²-4ac)] / 2a", "keywords": ["a=2", "b=-7", "c=3", "formula"]},
+      {"step_number": 2, "step_description": "Compute discriminant: D = (-7)² - 4(2)(3) = 49 - 24 = 25", "max_marks": 1, "ideal_solution_snippet": "D = 49 - 24 = 25", "keywords": ["discriminant", "49", "24", "25"]},
+      {"step_number": 3, "step_description": "Substitute and solve: x = (7 ± 5)/4, so x = 3 or x = 1/2", "max_marks": 1, "ideal_solution_snippet": "x = (7+5)/4 = 3 or x = (7-5)/4 = 1/2", "keywords": ["x=3", "x=1/2", "7±5"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000012",
+    "steps": [
+      {"step_number": 1, "step_description": "Identify a = 1, b = -4, c = 1 and write the formula", "max_marks": 1, "ideal_solution_snippet": "a = 1, b = -4, c = 1", "keywords": ["a=1", "b=-4", "c=1"]},
+      {"step_number": 2, "step_description": "Compute D = 16 - 4 = 12 = 4×3, so √D = 2√3", "max_marks": 1, "ideal_solution_snippet": "D = 16 - 4 = 12; √12 = 2√3", "keywords": ["D=12", "2√3"]},
+      {"step_number": 3, "step_description": "Solve: x = (4 ± 2√3)/2 = 2 ± √3", "max_marks": 1, "ideal_solution_snippet": "x = 2 + √3 or x = 2 - √3", "keywords": ["2+√3", "2-√3"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000013",
+    "steps": [
+      {"step_number": 1, "step_description": "Identify coefficients and compute D = 16 + 20 = 36", "max_marks": 1, "ideal_solution_snippet": "a=1, b=4, c=-5; D = 16+20 = 36", "keywords": ["D=36", "a=1", "b=4", "c=-5"]},
+      {"step_number": 2, "step_description": "Solve: x = (-4 ± 6)/2, so x = 1 or x = -5", "max_marks": 1, "ideal_solution_snippet": "x = (-4+6)/2 = 1 or x = (-4-6)/2 = -5", "keywords": ["x=1", "x=-5"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000014",
+    "steps": [
+      {"step_number": 1, "step_description": "Identify a = 3, b = 5, c = -2 and write the formula", "max_marks": 1, "ideal_solution_snippet": "a = 3, b = 5, c = -2", "keywords": ["a=3", "b=5", "c=-2"]},
+      {"step_number": 2, "step_description": "Compute D = 25 + 24 = 49, √D = 7", "max_marks": 1, "ideal_solution_snippet": "D = 25 + 24 = 49; √49 = 7", "keywords": ["D=49", "√49=7"]},
+      {"step_number": 3, "step_description": "Solve: x = (-5 ± 7)/6, so x = 1/3 or x = -2", "max_marks": 1, "ideal_solution_snippet": "x = (-5+7)/6 = 1/3 or x = (-5-7)/6 = -2", "keywords": ["x=1/3", "x=-2"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000015",
+    "steps": [
+      {"step_number": 1, "step_description": "Identify a = 4, b = 4√3, c = 3", "max_marks": 1, "ideal_solution_snippet": "a = 4, b = 4√3, c = 3", "keywords": ["a=4", "b=4√3", "c=3"]},
+      {"step_number": 2, "step_description": "Compute D = (4√3)² - 4(4)(3) = 48 - 48 = 0", "max_marks": 1, "ideal_solution_snippet": "D = 48 - 48 = 0", "keywords": ["D=0", "48"]},
+      {"step_number": 3, "step_description": "Since D = 0, equal roots: x = -4√3/(2×4) = -√3/2", "max_marks": 1, "ideal_solution_snippet": "x = -4√3/8 = -√3/2", "keywords": ["-√3/2", "equal roots"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000016",
+    "steps": [
+      {"step_number": 1, "step_description": "Identify a = 1, b = -6, c = 4 and write the quadratic formula", "max_marks": 1, "ideal_solution_snippet": "a = 1, b = -6, c = 4", "keywords": ["a=1", "b=-6", "c=4"]},
+      {"step_number": 2, "step_description": "Compute D = 36 - 16 = 20, √D = 2√5", "max_marks": 1, "ideal_solution_snippet": "D = 36 - 16 = 20; √20 = 2√5", "keywords": ["D=20", "2√5"]},
+      {"step_number": 3, "step_description": "Substitute: x = (6 ± 2√5)/2 = 3 ± √5", "max_marks": 1, "ideal_solution_snippet": "x = 3 + √5 or x = 3 - √5", "keywords": ["3+√5", "3-√5"]},
+      {"step_number": 4, "step_description": "Express in simplest surd form and verify both roots are valid", "max_marks": 1, "ideal_solution_snippet": "x = 3 + √5 ≈ 5.24, x = 3 - √5 ≈ 0.76", "keywords": ["surd form", "simplest", "verify"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000017",
+    "steps": [
+      {"step_number": 1, "step_description": "Identify coefficients and compute D = 1 + 24 = 25", "max_marks": 1, "ideal_solution_snippet": "a=1, b=-1, c=-6; D = 1+24 = 25", "keywords": ["D=25"]},
+      {"step_number": 2, "step_description": "Solve: x = (1 ± 5)/2, so x = 3 or x = -2", "max_marks": 1, "ideal_solution_snippet": "x = (1+5)/2 = 3 or x = (1-5)/2 = -2", "keywords": ["x=3", "x=-2"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000018",
+    "steps": [
+      {"step_number": 1, "step_description": "Identify a = 2, b = 3, c = -5 and write the formula", "max_marks": 1, "ideal_solution_snippet": "a = 2, b = 3, c = -5", "keywords": ["a=2", "b=3", "c=-5"]},
+      {"step_number": 2, "step_description": "Compute D = 9 + 40 = 49, √D = 7", "max_marks": 1, "ideal_solution_snippet": "D = 9 + 40 = 49; √49 = 7", "keywords": ["D=49", "7"]},
+      {"step_number": 3, "step_description": "Solve: x = (-3 ± 7)/4, so x = 1 or x = -5/2", "max_marks": 1, "ideal_solution_snippet": "x = (-3+7)/4 = 1 or x = (-3-7)/4 = -5/2", "keywords": ["x=1", "x=-5/2"]},
+      {"step_number": 4, "step_description": "Verify: For x=1: 2(1)+3(1)-5 = 0 ✓; For x=-5/2: 2(25/4)+3(-5/2)-5 = 0 ✓", "max_marks": 1, "ideal_solution_snippet": "Verification: 2(1)²+3(1)-5 = 0 ✓ and 2(-5/2)²+3(-5/2)-5 = 0 ✓", "keywords": ["verify", "substitute", "LHS=RHS"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000019",
+    "steps": [
+      {"step_number": 1, "step_description": "Move constant to RHS: x² + 6x = -5", "max_marks": 1, "ideal_solution_snippet": "x² + 6x = -5", "keywords": ["rearrange", "RHS"]},
+      {"step_number": 2, "step_description": "Add (6/2)² = 9 to both sides: x² + 6x + 9 = 4", "max_marks": 1, "ideal_solution_snippet": "(6/2)² = 9; x² + 6x + 9 = -5 + 9 = 4", "keywords": ["half", "square", "9", "4"]},
+      {"step_number": 3, "step_description": "Write as perfect square and solve: (x + 3)² = 4, x + 3 = ±2, x = -1 or x = -5", "max_marks": 1, "ideal_solution_snippet": "(x + 3)² = 4; x = -3 + 2 = -1 or x = -3 - 2 = -5", "keywords": ["(x+3)²", "±2", "x=-1", "x=-5"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000020",
+    "steps": [
+      {"step_number": 1, "step_description": "Divide by 2: x² - 4x + 3 = 0, then x² - 4x = -3", "max_marks": 1, "ideal_solution_snippet": "x² - 4x + 3 = 0; x² - 4x = -3", "keywords": ["divide by 2", "coefficient 1"]},
+      {"step_number": 2, "step_description": "Add (4/2)² = 4 to both sides: x² - 4x + 4 = 1", "max_marks": 1, "ideal_solution_snippet": "(4/2)² = 4; x² - 4x + 4 = -3 + 4 = 1", "keywords": ["half", "square", "4", "1"]},
+      {"step_number": 3, "step_description": "Write as perfect square: (x - 2)² = 1", "max_marks": 1, "ideal_solution_snippet": "(x - 2)² = 1", "keywords": ["(x-2)²", "perfect square"]},
+      {"step_number": 4, "step_description": "Solve: x - 2 = ±1, x = 3 or x = 1", "max_marks": 1, "ideal_solution_snippet": "x = 2 + 1 = 3 or x = 2 - 1 = 1", "keywords": ["x=3", "x=1"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000021",
+    "steps": [
+      {"step_number": 1, "step_description": "Rearrange: x² - 4x = 8", "max_marks": 1, "ideal_solution_snippet": "x² - 4x = 8", "keywords": ["rearrange"]},
+      {"step_number": 2, "step_description": "Add (4/2)² = 4 to both sides: x² - 4x + 4 = 12", "max_marks": 1, "ideal_solution_snippet": "(4/2)² = 4; x² - 4x + 4 = 12", "keywords": ["4", "12"]},
+      {"step_number": 3, "step_description": "Solve: (x - 2)² = 12, x = 2 ± 2√3", "max_marks": 1, "ideal_solution_snippet": "(x - 2)² = 12; x = 2 ± 2√3", "keywords": ["(x-2)²", "2√3", "2+2√3", "2-2√3"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000022",
+    "steps": [
+      {"step_number": 1, "step_description": "Move constant: x² + 4x = 21", "max_marks": 1, "ideal_solution_snippet": "x² + 4x = 21", "keywords": ["rearrange", "21"]},
+      {"step_number": 2, "step_description": "Add (4/2)² = 4: x² + 4x + 4 = 25", "max_marks": 1, "ideal_solution_snippet": "x² + 4x + 4 = 25", "keywords": ["4", "25"]},
+      {"step_number": 3, "step_description": "Solve: (x + 2)² = 25, x + 2 = ±5, x = 3 or x = -7", "max_marks": 1, "ideal_solution_snippet": "(x + 2)² = 25; x = 3, x = -7", "keywords": ["(x+2)²", "x=3", "x=-7"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000023",
+    "steps": [
+      {"step_number": 1, "step_description": "Move constant to RHS: x² + 6x = -4", "max_marks": 1, "ideal_solution_snippet": "x² + 6x = -4", "keywords": ["rearrange", "RHS"]},
+      {"step_number": 2, "step_description": "Add (6/2)² = 9 to both sides: x² + 6x + 9 = 5", "max_marks": 1, "ideal_solution_snippet": "(6/2)² = 9; x² + 6x + 9 = -4 + 9 = 5", "keywords": ["half", "square", "9", "5"]},
+      {"step_number": 3, "step_description": "Write as perfect square: (x + 3)² = 5, x + 3 = ±√5", "max_marks": 1, "ideal_solution_snippet": "(x + 3)² = 5; x + 3 = ±√5", "keywords": ["(x+3)²", "√5"]},
+      {"step_number": 4, "step_description": "Solve: x = -3 + √5 or x = -3 - √5 (in surd form)", "max_marks": 1, "ideal_solution_snippet": "x = -3 + √5 or x = -3 - √5", "keywords": ["x=-3+√5", "x=-3-√5", "surd"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000024",
+    "steps": [
+      {"step_number": 1, "step_description": "Rearrange and add (2/2)² = 1: (x - 1)² = 4", "max_marks": 1, "ideal_solution_snippet": "x² - 2x = 3; x² - 2x + 1 = 4; (x-1)² = 4", "keywords": ["(x-1)²", "4"]},
+      {"step_number": 2, "step_description": "Solve: x - 1 = ±2, x = 3 or x = -1", "max_marks": 1, "ideal_solution_snippet": "x = 3 or x = -1", "keywords": ["x=3", "x=-1"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000025",
+    "steps": [
+      {"step_number": 1, "step_description": "Compute D = b² - 4ac = (-4)² - 4(2)(3) = 16 - 24 = -8", "max_marks": 1, "ideal_solution_snippet": "D = 16 - 24 = -8", "keywords": ["D=-8", "16", "24"]},
+      {"step_number": 2, "step_description": "Since D < 0, the equation has no real roots", "max_marks": 1, "ideal_solution_snippet": "D < 0, therefore no real roots", "keywords": ["D<0", "no real roots", "imaginary"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000026",
+    "steps": [
+      {"step_number": 1, "step_description": "For equal roots, D = 0. D = b² - 4ac = 16 - 4k", "max_marks": 1, "ideal_solution_snippet": "D = 4² - 4(1)(k) = 16 - 4k", "keywords": ["D=0", "16-4k"]},
+      {"step_number": 2, "step_description": "Set D = 0: 16 - 4k = 0, k = 4", "max_marks": 1, "ideal_solution_snippet": "16 - 4k = 0; k = 4", "keywords": ["k=4"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000027",
+    "steps": [
+      {"step_number": 1, "step_description": "For equal roots, D = 0. D = k² - 4(2)(3) = k² - 24", "max_marks": 1, "ideal_solution_snippet": "D = k² - 24", "keywords": ["k²-24"]},
+      {"step_number": 2, "step_description": "Set D = 0: k² = 24, k = ±2√6", "max_marks": 1, "ideal_solution_snippet": "k² = 24; k = ±2√6", "keywords": ["k=2√6", "k=-2√6", "±2√6"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000028",
+    "steps": [
+      {"step_number": 1, "step_description": "Compute D = (-4)² - 4(1)(4) = 16 - 16 = 0. Since D = 0, roots are real and equal", "max_marks": 1, "ideal_solution_snippet": "D = 16 - 16 = 0; real and equal roots", "keywords": ["D=0", "real", "equal"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000029",
+    "steps": [
+      {"step_number": 1, "step_description": "Identify a = (k+1), b = -2(k-1), c = 1 and note k ≠ -1", "max_marks": 1, "ideal_solution_snippet": "a = k+1, b = -2(k-1), c = 1; k ≠ -1", "keywords": ["a=k+1", "b=-2(k-1)", "c=1"]},
+      {"step_number": 2, "step_description": "Compute D = 4(k-1)² - 4(k+1) = 4(k² - 2k + 1) - 4k - 4 = 4k² - 12k", "max_marks": 1, "ideal_solution_snippet": "D = 4(k-1)² - 4(k+1) = 4k² - 8k + 4 - 4k - 4 = 4k² - 12k", "keywords": ["4k²-12k", "expand"]},
+      {"step_number": 3, "step_description": "Set D = 0: 4k² - 12k = 0, 4k(k - 3) = 0", "max_marks": 1, "ideal_solution_snippet": "4k(k - 3) = 0", "keywords": ["4k", "k-3", "factorise"]},
+      {"step_number": 4, "step_description": "k = 0 or k = 3 (both valid since k ≠ -1)", "max_marks": 1, "ideal_solution_snippet": "k = 0 or k = 3", "keywords": ["k=0", "k=3"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000030",
+    "steps": [
+      {"step_number": 1, "step_description": "Identify a = 1, b = -2(1+3k), c = 7(3+2k)", "max_marks": 1, "ideal_solution_snippet": "a = 1, b = -2-6k, c = 21+14k", "keywords": ["a=1", "b=-2-6k", "c=21+14k"]},
+      {"step_number": 2, "step_description": "Compute D = [2(1+3k)]² - 4(1)(7)(3+2k) = 4(1+3k)² - 28(3+2k)", "max_marks": 1, "ideal_solution_snippet": "D = 4(1+6k+9k²) - 84 - 56k = 36k² - 32k - 80", "keywords": ["36k²", "-32k", "-80"]},
+      {"step_number": 3, "step_description": "Set D = 0: 36k² - 32k - 80 = 0, simplify to 9k² - 8k - 20 = 0", "max_marks": 1, "ideal_solution_snippet": "9k² - 8k - 20 = 0", "keywords": ["9k²-8k-20"]},
+      {"step_number": 4, "step_description": "Solve: (9k + 10)(k - 2) = 0, k = -10/9 or k = 2", "max_marks": 1, "ideal_solution_snippet": "k = 2 or k = -10/9", "keywords": ["k=2", "k=-10/9"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000031",
+    "steps": [
+      {"step_number": 1, "step_description": "Compute D = (-5)² - 4(3)(2) = 25 - 24 = 1. Since D = 1 > 0, discriminant is positive", "max_marks": 1, "ideal_solution_snippet": "D = 25 - 24 = 1 > 0; discriminant is positive", "keywords": ["D=1", "positive"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000032",
+    "steps": [
+      {"step_number": 1, "step_description": "For equal roots: D = 0. Compute D = [2(ac+bd)]² - 4(a²+b²)(c²+d²)", "max_marks": 1, "ideal_solution_snippet": "D = 4(ac+bd)² - 4(a²+b²)(c²+d²)", "keywords": ["D=0", "equal roots"]},
+      {"step_number": 2, "step_description": "Expand: 4[a²c²+2abcd+b²d²] - 4[a²c²+a²d²+b²c²+b²d²]", "max_marks": 1, "ideal_solution_snippet": "4(a²c²+2abcd+b²d²) - 4(a²c²+a²d²+b²c²+b²d²)", "keywords": ["expand", "a²c²", "b²d²"]},
+      {"step_number": 3, "step_description": "Simplify: 4[2abcd - a²d² - b²c²] = -4(ad - bc)² = 0", "max_marks": 1, "ideal_solution_snippet": "-4(ad - bc)² = 0; (ad - bc)² = 0; ad = bc", "keywords": ["(ad-bc)²", "ad=bc"]},
+      {"step_number": 4, "step_description": "Therefore ad = bc, which gives a/b = c/d. Hence proved.", "max_marks": 1, "ideal_solution_snippet": "ad = bc ⟹ a/b = c/d. QED", "keywords": ["a/b=c/d", "proved", "QED"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000033",
+    "steps": [
+      {"step_number": 1, "step_description": "Let the integers be x and x+1. Set up equation: x(x+1) = 306", "max_marks": 1, "ideal_solution_snippet": "Let integers = x, x+1; x(x+1) = 306; x² + x - 306 = 0", "keywords": ["x", "x+1", "x²+x-306"]},
+      {"step_number": 2, "step_description": "Factorise or use formula: (x - 17)(x + 18) = 0", "max_marks": 1, "ideal_solution_snippet": "x² + x - 306 = 0; (x-17)(x+18) = 0", "keywords": ["x-17", "x+18", "factorise"]},
+      {"step_number": 3, "step_description": "Since positive integers, x = 17 and x + 1 = 18", "max_marks": 1, "ideal_solution_snippet": "x = 17 (positive); integers are 17 and 18", "keywords": ["17", "18", "positive"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000034",
+    "steps": [
+      {"step_number": 1, "step_description": "Let speed = x km/h. Time = 360/x. New time = 360/(x+5). Set up equation: 360/x - 360/(x+5) = 1", "max_marks": 1, "ideal_solution_snippet": "360/x - 360/(x+5) = 1", "keywords": ["360/x", "360/(x+5)", "speed", "time"]},
+      {"step_number": 2, "step_description": "Simplify: 360(x+5) - 360x = x(x+5), so 1800 = x² + 5x", "max_marks": 1, "ideal_solution_snippet": "360(x+5-x) = x(x+5); 1800 = x² + 5x", "keywords": ["1800", "x²+5x", "cross multiply"]},
+      {"step_number": 3, "step_description": "Rearrange: x² + 5x - 1800 = 0, factorise: (x + 45)(x - 40) = 0", "max_marks": 1, "ideal_solution_snippet": "x² + 5x - 1800 = 0; (x+45)(x-40) = 0", "keywords": ["x²+5x-1800", "x+45", "x-40"]},
+      {"step_number": 4, "step_description": "x = 40 km/h (speed cannot be negative, reject x = -45)", "max_marks": 1, "ideal_solution_snippet": "x = 40 km/h (rejecting -45)", "keywords": ["40", "km/h", "reject negative"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000035",
+    "steps": [
+      {"step_number": 1, "step_description": "Let the odd numbers be 2x-1 and 2x+1. Set up: (2x-1)² + (2x+1)² = 394", "max_marks": 1, "ideal_solution_snippet": "Let odds = (2x-1), (2x+1); (2x-1)² + (2x+1)² = 394", "keywords": ["2x-1", "2x+1", "394"]},
+      {"step_number": 2, "step_description": "Expand and simplify: 4x²-4x+1 + 4x²+4x+1 = 394, so 8x² + 2 = 394, 8x² = 392, x² = 49", "max_marks": 1, "ideal_solution_snippet": "8x² + 2 = 394; 8x² = 392; x² = 49", "keywords": ["8x²", "392", "49"]},
+      {"step_number": 3, "step_description": "x = 7, so numbers are 13 and 15", "max_marks": 1, "ideal_solution_snippet": "x = 7; numbers = 2(7)-1 = 13 and 2(7)+1 = 15", "keywords": ["13", "15", "x=7"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000036",
+    "steps": [
+      {"step_number": 1, "step_description": "Let base = x cm, altitude = (x - 7) cm. By Pythagoras: x² + (x-7)² = 13²", "max_marks": 1, "ideal_solution_snippet": "base = x, altitude = x-7; hypotenuse = 13; x² + (x-7)² = 169", "keywords": ["base", "altitude", "hypotenuse", "Pythagoras"]},
+      {"step_number": 2, "step_description": "Expand: x² + x² - 14x + 49 = 169, so 2x² - 14x - 120 = 0, x² - 7x - 60 = 0", "max_marks": 1, "ideal_solution_snippet": "2x² - 14x + 49 - 169 = 0; x² - 7x - 60 = 0", "keywords": ["x²-7x-60", "expand"]},
+      {"step_number": 3, "step_description": "Factorise: (x - 12)(x + 5) = 0, x = 12 (reject -5)", "max_marks": 1, "ideal_solution_snippet": "(x-12)(x+5) = 0; x = 12", "keywords": ["x-12", "x+5", "x=12"]},
+      {"step_number": 4, "step_description": "Base = 12 cm, Altitude = 12 - 7 = 5 cm. Verify: 12² + 5² = 144 + 25 = 169 = 13² ✓", "max_marks": 1, "ideal_solution_snippet": "Base = 12 cm, Altitude = 5 cm; 12² + 5² = 169 ✓", "keywords": ["12 cm", "5 cm", "verify"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000037",
+    "steps": [
+      {"step_number": 1, "step_description": "Let breadth = x. Length = 2x + 1. Area: x(2x + 1) = 528", "max_marks": 1, "ideal_solution_snippet": "breadth = x, length = 2x+1; x(2x+1) = 528", "keywords": ["breadth", "length", "2x+1", "528"]},
+      {"step_number": 2, "step_description": "Form equation: 2x² + x - 528 = 0", "max_marks": 1, "ideal_solution_snippet": "2x² + x - 528 = 0", "keywords": ["2x²+x-528"]},
+      {"step_number": 3, "step_description": "Solve using formula or factorisation: x = (-1 ± √(1 + 4224))/4 = (-1 ± 65)/4", "max_marks": 1, "ideal_solution_snippet": "D = 1 + 4224 = 4225; √4225 = 65; x = (-1+65)/4 = 16", "keywords": ["D=4225", "65", "x=16"]},
+      {"step_number": 4, "step_description": "x = 16 m (breadth), length = 2(16)+1 = 33 m. Verify: 16 × 33 = 528 ✓", "max_marks": 1, "ideal_solution_snippet": "Breadth = 16 m, Length = 33 m; 16×33 = 528 ✓", "keywords": ["16 m", "33 m", "verify"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000038",
+    "steps": [
+      {"step_number": 1, "step_description": "Let number = x. Equation: x + 1/x = 10/3, so 3x² + 3 = 10x, 3x² - 10x + 3 = 0", "max_marks": 1, "ideal_solution_snippet": "x + 1/x = 10/3; 3x² - 10x + 3 = 0", "keywords": ["x+1/x", "3x²-10x+3"]},
+      {"step_number": 2, "step_description": "Solve: (3x - 1)(x - 3) = 0, x = 3 or x = 1/3", "max_marks": 1, "ideal_solution_snippet": "(3x-1)(x-3) = 0; x = 3 or x = 1/3", "keywords": ["x=3", "x=1/3"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000039",
+    "steps": [
+      {"step_number": 1, "step_description": "Let smaller tap time = x hours. Larger tap = x - 8 hours. Combined rate: 1/x + 1/(x-8) = 1/(48/5)", "max_marks": 1, "ideal_solution_snippet": "9h 36min = 48/5 hours; 1/x + 1/(x-8) = 5/48", "keywords": ["48/5", "1/x", "1/(x-8)", "5/48"]},
+      {"step_number": 2, "step_description": "Simplify: (x-8+x)/[x(x-8)] = 5/48, so (2x-8)×48 = 5x(x-8)", "max_marks": 1, "ideal_solution_snippet": "48(2x-8) = 5x(x-8); 96x - 384 = 5x² - 40x", "keywords": ["cross multiply", "96x", "5x²"]},
+      {"step_number": 3, "step_description": "Rearrange: 5x² - 136x + 384 = 0. Solve using quadratic formula or factorisation", "max_marks": 1, "ideal_solution_snippet": "5x² - 136x + 384 = 0", "keywords": ["5x²-136x+384"]},
+      {"step_number": 4, "step_description": "x = 24 hours (smaller tap), x - 8 = 16 hours (larger tap). Reject x = 16/5 as it gives negative time for larger tap.", "max_marks": 1, "ideal_solution_snippet": "x = 24 hours (smaller tap), 16 hours (larger tap)", "keywords": ["24 hours", "16 hours"]}
+    ]
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000040",
+    "steps": [
+      {"step_number": 1, "step_description": "Let numbers be x and x-5. Equation: 1/(x-5) - 1/x = 1/10", "max_marks": 1, "ideal_solution_snippet": "Let numbers = x, x-5; 1/(x-5) - 1/x = 1/10", "keywords": ["x", "x-5", "reciprocals"]},
+      {"step_number": 2, "step_description": "Simplify: [x - (x-5)] / [x(x-5)] = 1/10, so 5/[x(x-5)] = 1/10, x(x-5) = 50", "max_marks": 1, "ideal_solution_snippet": "5/[x(x-5)] = 1/10; x² - 5x = 50", "keywords": ["x²-5x", "50", "simplify"]},
+      {"step_number": 3, "step_description": "Solve: x² - 5x - 50 = 0, (x - 10)(x + 5) = 0, x = 10 or x = -5. Numbers are 10 and 5 (or -5 and -10)", "max_marks": 1, "ideal_solution_snippet": "(x-10)(x+5) = 0; Numbers: 10 and 5", "keywords": ["10", "5", "x=10"]}
+    ]
+  }
+]

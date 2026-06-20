@@ -1,0 +1,362 @@
+[
+  {
+    "question_id": "00000000-0000-4000-a000-000000000001",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "factorization",
+    "question_text": "Solve for x: x² - 5x + 6 = 0 using the factorization method.",
+    "marks": 2,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000002",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "factorization",
+    "question_text": "Solve for x: x² + 7x + 12 = 0 by factorization.",
+    "marks": 2,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000003",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "factorization",
+    "question_text": "Solve for x: 2x² + x - 6 = 0 by factorization.",
+    "marks": 3,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000004",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "factorization",
+    "question_text": "Solve for x: 6x² - x - 2 = 0 by factorization.",
+    "marks": 3,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000005",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "factorization",
+    "question_text": "Solve: x² - 9 = 0.",
+    "marks": 1,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000006",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "factorization",
+    "question_text": "Solve for x: 3x² - 2√6 x + 2 = 0 by factorization.",
+    "marks": 3,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000007",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "factorization",
+    "question_text": "Solve for x: x² - 3x - 10 = 0 by factorization.",
+    "marks": 2,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000008",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "factorization",
+    "question_text": "Find the roots of x(x - 2) = 3 by factorization.",
+    "marks": 2,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000009",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "factorization",
+    "question_text": "Solve for x: 4x² - 4a²x + (a⁴ - b⁴) = 0 by factorization.",
+    "marks": 4,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000010",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "factorization",
+    "question_text": "Solve: 2x² + ax - a² = 0 by factorization.",
+    "marks": 3,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000011",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "quadratic_formula",
+    "question_text": "Solve for x using the quadratic formula: 2x² - 7x + 3 = 0.",
+    "marks": 3,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000012",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "quadratic_formula",
+    "question_text": "Using the quadratic formula, solve: x² - 4x + 1 = 0.",
+    "marks": 3,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000013",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "quadratic_formula",
+    "question_text": "Solve for x using the quadratic formula: x² + 4x - 5 = 0.",
+    "marks": 2,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000014",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "quadratic_formula",
+    "question_text": "Using the quadratic formula, solve: 3x² + 5x - 2 = 0.",
+    "marks": 3,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000015",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "quadratic_formula",
+    "question_text": "Solve for x: 4x² + 4√3 x + 3 = 0 using the quadratic formula.",
+    "marks": 3,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000016",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "quadratic_formula",
+    "question_text": "Find the roots of x² - 6x + 4 = 0 using the quadratic formula, and express your answer in simplest surd form.",
+    "marks": 4,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000017",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "quadratic_formula",
+    "question_text": "Solve using the quadratic formula: x² - x - 6 = 0.",
+    "marks": 2,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000018",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "quadratic_formula",
+    "question_text": "Use the quadratic formula to solve: 2x² + 3x - 5 = 0. Verify your answer.",
+    "marks": 4,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000019",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "completing_the_square",
+    "question_text": "Solve x² + 6x + 5 = 0 by the method of completing the square.",
+    "marks": 3,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000020",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "completing_the_square",
+    "question_text": "Solve 2x² - 8x + 6 = 0 by completing the square.",
+    "marks": 4,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000021",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "completing_the_square",
+    "question_text": "Solve x² - 4x - 8 = 0 by completing the square.",
+    "marks": 3,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000022",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "completing_the_square",
+    "question_text": "Solve x² + 4x - 21 = 0 by the method of completing the square.",
+    "marks": 3,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000023",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "completing_the_square",
+    "question_text": "Solve x² + 6x + 4 = 0 by completing the square.",
+    "marks": 4,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000024",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "completing_the_square",
+    "question_text": "Solve x² - 2x - 3 = 0 by completing the square.",
+    "marks": 2,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000025",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "nature_of_roots",
+    "question_text": "Find the discriminant of the equation 2x² - 4x + 3 = 0 and hence determine the nature of its roots.",
+    "marks": 2,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000026",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "nature_of_roots",
+    "question_text": "For what value of k does the equation x² + 4x + k = 0 have equal roots?",
+    "marks": 2,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000027",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "nature_of_roots",
+    "question_text": "Find the value(s) of k for which the equation 2x² + kx + 3 = 0 has two equal roots.",
+    "marks": 2,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000028",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "nature_of_roots",
+    "question_text": "Without solving, determine the nature of roots of the equation: x² - 4x + 4 = 0.",
+    "marks": 1,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000029",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "nature_of_roots",
+    "question_text": "Find the values of k for which the equation (k+1)x² - 2(k-1)x + 1 = 0 has real and equal roots.",
+    "marks": 4,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000030",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "nature_of_roots",
+    "question_text": "If the equation x² - 2(1 + 3k)x + 7(3 + 2k) = 0 has equal roots, find the value of k.",
+    "marks": 4,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000031",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "nature_of_roots",
+    "question_text": "State whether the discriminant of 3x² - 5x + 2 = 0 is positive, zero, or negative.",
+    "marks": 1,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000032",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "nature_of_roots",
+    "question_text": "If the roots of the equation (a² + b²)x² - 2(ac + bd)x + (c² + d²) = 0 are equal, prove that a/b = c/d.",
+    "marks": 4,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000033",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "word_problems",
+    "question_text": "The product of two consecutive positive integers is 306. Find the integers.",
+    "marks": 3,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000034",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "word_problems",
+    "question_text": "A train travels 360 km at a uniform speed. If the speed had been 5 km/h more, it would have taken 1 hour less for the same journey. Find the speed of the train.",
+    "marks": 4,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000035",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "word_problems",
+    "question_text": "The sum of the squares of two consecutive odd numbers is 394. Find the numbers.",
+    "marks": 3,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000036",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "word_problems",
+    "question_text": "The altitude of a right triangle is 7 cm less than its base. If the hypotenuse is 13 cm, find the other two sides.",
+    "marks": 4,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000037",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "word_problems",
+    "question_text": "A rectangular field has an area of 528 m². The length of the field is one more than twice its breadth. Find the length and breadth of the field.",
+    "marks": 4,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000038",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "word_problems",
+    "question_text": "The sum of a number and its reciprocal is 10/3. Find the number.",
+    "marks": 2,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000039",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "word_problems",
+    "question_text": "Two water taps together can fill a tank in 9 hours 36 minutes. The tap of larger diameter takes 8 hours less than the smaller one to fill the tank separately. Find the time in which each tap can separately fill the tank.",
+    "marks": 4,
+    "board": "CBSE"
+  },
+  {
+    "question_id": "00000000-0000-4000-a000-000000000040",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "subtopic": "word_problems",
+    "question_text": "The difference of two numbers is 5 and the difference of their reciprocals is 1/10. Find the numbers.",
+    "marks": 3,
+    "board": "CBSE"
+  }
+]

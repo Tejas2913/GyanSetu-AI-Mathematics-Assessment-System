@@ -1,0 +1,170 @@
+[
+  {
+    "section": "Standard Form",
+    "order": 1,
+    "concepts": [
+      {
+        "title": "General Form of a Quadratic Equation",
+        "formula_latex": "ax^2 + bx + c = 0, \\quad a \\neq 0",
+        "explanation": "A quadratic equation is a polynomial equation of degree 2 in one variable. Here, a, b, and c are real numbers and a ≠ 0. The values a, b, c are called the coefficients.",
+        "example": "3x² + 5x - 2 = 0 where a = 3, b = 5, c = -2"
+      },
+      {
+        "title": "Roots / Solutions",
+        "formula_latex": "\\text{If } ax^2 + bx + c = 0 \\text{ and } x = \\alpha, \\text{ then } a\\alpha^2 + b\\alpha + c = 0",
+        "explanation": "A root (or solution) of a quadratic equation is a value of x that satisfies the equation. A quadratic equation has at most two roots.",
+        "example": "For x² - 5x + 6 = 0, the roots are x = 2 and x = 3 because 4 - 10 + 6 = 0 ✓"
+      }
+    ]
+  },
+  {
+    "section": "Solution Methods",
+    "order": 2,
+    "concepts": [
+      {
+        "title": "Method 1: Factorization",
+        "formula_latex": "ax^2 + bx + c = a(x - \\alpha)(x - \\beta) = 0",
+        "explanation": "Split the middle term bx into two terms whose product equals ac and sum equals b. Group and factorise into two binomials. Set each factor to zero to find the roots.",
+        "example": "x² - 5x + 6 = 0 → x² - 2x - 3x + 6 = 0 → x(x-2) - 3(x-2) = 0 → (x-2)(x-3) = 0 → x = 2, 3"
+      },
+      {
+        "title": "Splitting the Middle Term",
+        "formula_latex": "\\text{Find } p, q \\text{ such that } p + q = b \\text{ and } p \\times q = a \\times c",
+        "explanation": "This is the key step in factorization. Find two numbers p and q whose sum is b (the middle coefficient) and whose product is a×c (product of first and last coefficients).",
+        "example": "For 2x² + x - 6: a×c = -12, b = 1. Numbers: 4 and -3 (sum=1, product=-12)"
+      },
+      {
+        "title": "Method 2: Quadratic Formula (Shreedharacharya's Rule)",
+        "formula_latex": "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+        "explanation": "This formula works for ALL quadratic equations and directly gives both roots. Derived by completing the square on the general form. The ± gives two values: one with + and one with −.",
+        "example": "For 2x² - 7x + 3 = 0: x = (7 ± √(49-24))/4 = (7 ± 5)/4, so x = 3 or x = 1/2"
+      },
+      {
+        "title": "Method 3: Completing the Square",
+        "formula_latex": "x^2 + bx + c = 0 \\Rightarrow \\left(x + \\frac{b}{2}\\right)^2 = \\frac{b^2}{4} - c",
+        "explanation": "Steps: (1) Make coefficient of x² equal to 1. (2) Move constant term to RHS. (3) Add (half of coefficient of x)² to both sides. (4) Write LHS as a perfect square. (5) Take square root of both sides.",
+        "example": "x² + 6x + 5 = 0 → x² + 6x = -5 → x² + 6x + 9 = 4 → (x+3)² = 4 → x = -1, -5"
+      }
+    ]
+  },
+  {
+    "section": "Discriminant & Nature of Roots",
+    "order": 3,
+    "concepts": [
+      {
+        "title": "Discriminant",
+        "formula_latex": "D = b^2 - 4ac",
+        "explanation": "The discriminant determines the nature of roots without actually solving the equation. It is the expression under the square root in the quadratic formula.",
+        "example": "For 2x² - 4x + 3 = 0: D = 16 - 24 = -8 (negative → no real roots)"
+      },
+      {
+        "title": "Nature of Roots — D > 0",
+        "formula_latex": "D > 0 \\Rightarrow \\text{Two distinct real roots: } x = \\frac{-b \\pm \\sqrt{D}}{2a}",
+        "explanation": "When the discriminant is positive, the square root is a real number, giving two different values of x. If D is a perfect square, the roots are rational; otherwise, they are irrational.",
+        "example": "x² - 5x + 6 = 0: D = 25 - 24 = 1 > 0 → Two distinct real roots (x = 2, 3)"
+      },
+      {
+        "title": "Nature of Roots — D = 0",
+        "formula_latex": "D = 0 \\Rightarrow \\text{Two equal (repeated) real roots: } x = \\frac{-b}{2a}",
+        "explanation": "When D = 0, both roots are equal. The quadratic is a perfect square: ax² + bx + c = a(x - α)². These problems often ask you to find the value of k for equal roots.",
+        "example": "x² - 4x + 4 = 0: D = 16 - 16 = 0 → Equal roots: x = 2, 2"
+      },
+      {
+        "title": "Nature of Roots — D < 0",
+        "formula_latex": "D < 0 \\Rightarrow \\text{No real roots (roots are imaginary)}",
+        "explanation": "When D is negative, there is no real number whose square equals D. The equation has no real solutions. In Class 10, we say the equation has 'no real roots'.",
+        "example": "x² + x + 1 = 0: D = 1 - 4 = -3 < 0 → No real roots"
+      },
+      {
+        "title": "Finding k for Equal Roots",
+        "formula_latex": "\\text{Set } D = 0: \\quad b^2 - 4ac = 0 \\quad \\Rightarrow \\quad \\text{Solve for } k",
+        "explanation": "A very common board exam pattern: given a quadratic with parameter k, find k such that roots are equal. Set discriminant = 0 and solve the resulting equation for k.",
+        "example": "kx² + 4x + 1 = 0 has equal roots: D = 16 - 4k = 0 → k = 4"
+      }
+    ]
+  },
+  {
+    "section": "Important Identities",
+    "order": 4,
+    "concepts": [
+      {
+        "title": "Sum of Roots",
+        "formula_latex": "\\alpha + \\beta = -\\frac{b}{a}",
+        "explanation": "The sum of the two roots of ax² + bx + c = 0 equals -b/a. This is useful for verifying answers and in some problems.",
+        "example": "For x² - 5x + 6 = 0: α + β = -(-5)/1 = 5. Check: 2 + 3 = 5 ✓"
+      },
+      {
+        "title": "Product of Roots",
+        "formula_latex": "\\alpha \\cdot \\beta = \\frac{c}{a}",
+        "explanation": "The product of the two roots equals c/a. Combined with the sum, you can form a quadratic if you know its roots.",
+        "example": "For x² - 5x + 6 = 0: α·β = 6/1 = 6. Check: 2 × 3 = 6 ✓"
+      },
+      {
+        "title": "Difference of Squares",
+        "formula_latex": "a^2 - b^2 = (a + b)(a - b)",
+        "explanation": "Used to factorise expressions of the form x² - k² directly without splitting the middle term.",
+        "example": "x² - 9 = (x+3)(x-3) = 0 → x = ±3"
+      },
+      {
+        "title": "Perfect Square Trinomial",
+        "formula_latex": "(a \\pm b)^2 = a^2 \\pm 2ab + b^2",
+        "explanation": "Recognising perfect squares helps in completing the square and identifying D = 0 cases.",
+        "example": "x² - 4x + 4 = (x - 2)² → equal roots at x = 2"
+      }
+    ]
+  },
+  {
+    "section": "Word Problem Strategies",
+    "order": 5,
+    "concepts": [
+      {
+        "title": "Setting Up the Equation",
+        "formula_latex": "\\text{Let unknown} = x \\Rightarrow \\text{Translate conditions into } ax^2 + bx + c = 0",
+        "explanation": "Step 1: Identify the unknown. Step 2: Express other quantities in terms of x. Step 3: Set up the equation from the given condition. Step 4: Solve the quadratic. Step 5: Reject invalid roots (negative lengths, speeds, etc.).",
+        "example": "Product of two consecutive integers is 306: x(x+1) = 306 → x² + x - 306 = 0"
+      },
+      {
+        "title": "Speed-Distance-Time Problems",
+        "formula_latex": "\\text{Speed} = \\frac{\\text{Distance}}{\\text{Time}}, \\quad \\text{Time} = \\frac{\\text{Distance}}{\\text{Speed}}",
+        "explanation": "Common pattern: 'If speed were v more, time would be t less'. Set up: D/x - D/(x+v) = t, then cross-multiply and simplify into a quadratic.",
+        "example": "Train 360 km: 360/x - 360/(x+5) = 1 → x² + 5x - 1800 = 0 → x = 40 km/h"
+      },
+      {
+        "title": "Work-Time Problems",
+        "formula_latex": "\\text{Rate} = \\frac{1}{\\text{Time}}, \\quad \\text{Combined rate} = \\frac{1}{t_1} + \\frac{1}{t_2}",
+        "explanation": "If A takes x hours and B takes y hours, together they take T hours: 1/x + 1/y = 1/T. This leads to a quadratic when one time is expressed in terms of the other.",
+        "example": "Two taps: 1/x + 1/(x-8) = 5/48 → 5x² - 136x + 384 = 0"
+      },
+      {
+        "title": "Geometry Problems",
+        "formula_latex": "\\text{Use: Area, Perimeter, Pythagoras theorem to form equations}",
+        "explanation": "Express dimensions in terms of x using the given relationship. Use area = l × b, Pythagoras' theorem, or perimeter to form the quadratic equation.",
+        "example": "Altitude = base - 7, hypotenuse = 13: x² + (x-7)² = 169 → x² - 7x - 60 = 0"
+      },
+      {
+        "title": "Rejecting Invalid Roots",
+        "formula_latex": "\\text{Check: } x > 0 \\text{ for length, speed, time, age, count}",
+        "explanation": "After solving, always verify that the root makes sense in context. Reject negative values for physical quantities like length, speed, time, or number of items.",
+        "example": "If x = 12 or x = -5 for a length → reject x = -5, answer is 12 cm"
+      }
+    ]
+  },
+  {
+    "section": "Exam Tips",
+    "order": 6,
+    "concepts": [
+      {
+        "title": "Method Selection Guide",
+        "formula_latex": "\\text{Use factorization first} \\rightarrow \\text{If not factorable, use formula}",
+        "explanation": "Board examiners prefer factorization for simple equations. Use the quadratic formula when: (1) the equation is hard to factorise, (2) the question specifically asks for it, (3) roots are irrational. Use completing the square only when asked.",
+        "example": "x² - 5x + 6 → factorize; x² - 4x + 1 → use formula (irrational roots)"
+      },
+      {
+        "title": "Common Mistakes to Avoid",
+        "formula_latex": "\\text{Don't forget: } a \\neq 0, \\text{ check both roots, simplify surds}",
+        "explanation": "1. Don't forget to rearrange to standard form first. 2. Don't lose the ± when applying the formula. 3. Always simplify surds (√12 = 2√3). 4. Don't forget to verify in word problems. 5. State final answer clearly.",
+        "example": "√20 must be simplified to 2√5, not left as √20"
+      }
+    ]
+  }
+]
